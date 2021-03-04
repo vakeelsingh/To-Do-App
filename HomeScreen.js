@@ -12,7 +12,7 @@ function HomeScreen({ navigation, route}) {
           title="Recycler View Screen"
           onPress={() => navigation.navigate('RecyclerList')}
         />
-        <Text></Text>
+        <Text>New</Text>
         <Button
         title="Go to Details"
         onPress={() => {
